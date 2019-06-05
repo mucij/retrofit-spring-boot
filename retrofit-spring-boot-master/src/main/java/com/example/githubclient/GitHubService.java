@@ -32,7 +32,7 @@ public class GitHubService implements APIConfiguration {
 	}
 	
 	public void restoreToken() {
-		this.accessToken = "token " + " 5af5d6e9695e84f0d5a52f480e403c2b2272abde";
+		this.accessToken = "token " + " <access token>";
 		
 	}
 	
